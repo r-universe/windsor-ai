@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "windsoraiR"]
 	path = windsoraiR
 	url = https://github.com/windsor-ai/windsorair
-	shallow = true
-	registered = true
